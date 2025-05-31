@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Python | Com sólida experiência em Automação e Soluções Tecnológicas Criativas`**
 
-Sou um desenvolvedor com experiência consistente em tecnologia e automação, com sólida experiência prática em **Python** — minha linguagem principal —, onde me aperfeiçoei tanto em automação de tarefas quanto em desenvolvimento de interfaces gráficas, visão computacional e pequenos projetos em **Machine Learning**.  
+Sou um desenvolvedor com forte interesse em tecnologia e automação, com sólida experiência prática em **Python** — minha linguagem principal —, onde me aperfeiçoei tanto em automação de tarefas quanto em desenvolvimento de interfaces gráficas, visão computacional e pequenos projetos em **Machine Learning**.  
 Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino**, adquiridos na faculdade e em projetos experimentais, o que me permite navegar com segurança por diferentes ecossistemas de desenvolvimento e adaptar soluções conforme a necessidade do desafio.
 
 ---
