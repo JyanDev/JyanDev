@@ -11,6 +11,7 @@ Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino
 ## 🤖 Linguagens e Tecnologias
 
 <div>
+  <span style="display:inline-flex; align-items:center; background-color:#383b47; padding:8px; border-radius:10px; flex-wrap:nowrap; white-space:nowrap;">
   <img 
       align="left"
       alt="Python"
@@ -18,13 +19,16 @@ Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino
       width="40px"
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img 
-      align="left"
-      alt="Unity"
-      title="Unity"
-      width="40px"
-      style="padding-right: 10px;"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+
+  <img
+    align="left"
+    alt="Unity"
+    title="Unity"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
+    />
+
   <img 
       align="left"
       alt="Java"
@@ -66,7 +70,8 @@ Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino
       title="Arduino (prototipagem e automação física)"
       width="40px"
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />     
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />   
+    </span>  
 </div>
 
 <br clear="left"/>
@@ -89,7 +94,7 @@ Desenvolvi uma ferramenta gráfica eficiente para gerenciamento e visualização
 
 [Repositório](https://github.com/JyanDev/Pulso-Rodoviario)
 
-Solução automatizada criada para extrair e organizar informações atualizadas sobre condições rodoviárias, gerando relatórios detalhados em Excel. Implementado com sucesso na AGERS.
+Solução automatizada criada para extrair e organizar informações atualizadas sobre condições rodoviárias, gerando relatórios detalhados em Excel. Implementado com sucesso na AGERGS.
 
 **`Tecnologias:`** Python, requests, BeautifulSoup, pandas, openpyxl, tkinter
 
