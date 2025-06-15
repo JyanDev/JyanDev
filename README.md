@@ -20,6 +20,13 @@ Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img 
       align="left"
+      alt="Unity"
+      title="Unity"
+      width="40px"
+      style="padding-right: 10px;"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+  <img 
+      align="left"
       alt="Java"
       title="Java (base acadêmica e projetos)"
       width="40px"
