@@ -1,10 +1,11 @@
 
 # 👨🏻‍💻 Jyan Silva
 
-**`Desenvolvedor Python | Com sólida experiência em Automação e Soluções Tecnológicas Criativas`**
+**`Desenvolvedor | Com sólida experiência em Automação e Soluções Tecnológicas Criativas`**
 
-Sou um desenvolvedor com forte interesse em tecnologia e automação, com sólida experiência prática em **Python** — minha linguagem principal —, onde me aperfeiçoei tanto em automação de tarefas quanto em desenvolvimento de interfaces gráficas, visão computacional e pequenos projetos em **Machine Learning**.  
-Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino**, adquiridos na faculdade e em projetos experimentais, o que me permite navegar com segurança por diferentes ecossistemas de desenvolvimento e adaptar soluções conforme a necessidade do desafio.
+Minha trajetória no desenvolvimento de software é impulsionada por uma curiosidade inata sobre como a tecnologia pode otimizar e enriquecer a interação humana com o mundo digital. Encontrei no Python meu principal meio de expressão, onde exploro desde a automação de processos complexos até a concepção de interfaces gráficas e incursões em visão computacional e Machine Learning.
+
+Essa especialização, no entanto, é fundamentada sobre uma base polímata. Meus estudos em Java, C++, HTML/CSS, SQL e Arduino não são apenas itens em uma lista de competências; eles me conferem uma perspectiva mais ampla, permitindo-me arquitetar soluções mais resilientes e contextualmente adaptadas, independentemente do ecossistema tecnológico.
 
 ---
 
@@ -77,8 +78,11 @@ Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino
 <br clear="left"/>
 <br/>
 
-*Forte em Python (uso diário). Experiência acadêmica e prática em Java, C++, HTML5, CSS, SQL e Arduino, o que contribui para uma visão multidisciplinar em tecnologia e automação.*
+Domínio Diário: O Python e C# é o ecossistema onde atuo com maior fluidez, aplicando-o em automações, desenvolvimento de GUIs e explorações com Visão Computacional.
 
+Fundamentos Sólidos: A base acadêmica e prática em C++ e Java me confere rigor lógico e uma compreensão profunda de paradigmas de programação.
+
+Visão Integrada: HTML, CSS, e SQL complementam meu perfil, permitindo-me construir e integrar soluções que dialogam de forma eficiente com o ambiente web e bancos de dados.
 ---
 
 ## 🚀 Projetos de Destaque
@@ -86,15 +90,15 @@ Além disso, possuo fundamentos robustos em **Java, C++, HTML/CSS, SQL e Arduino
 
 [Repositório](https://github.com/JyanDev/photo-info-manager)
 
-Desenvolvi uma ferramenta gráfica eficiente para gerenciamento e visualização dos metadados das imagens, incluindo data, hora e localização GPS. Possui integração avançada com a API OpenCage para geolocalização detalhada.
+Concebido para entusiastas da fotografia e organização de dados, este projeto aborda a complexa tarefa de gerenciar metadados de imagens. A ferramenta oferece uma interface gráfica intuitiva para extrair e visualizar informações EXIF, como data, hora e, crucialmente, coordenadas GPS, que são traduzidas em endereços legíveis através da API OpenCage.
 
 **`Tecnologias:`** Python, PySide6, dotenv, OpenCage API
 
-### 📊 Gerador de Relatórios - Pulso Rodoviário
+### ⚙️ Hub-Wrappers
 
-[Repositório](https://github.com/JyanDev/Pulso-Rodoviario)
+[Repositório](https://github.com/JyanDev/Hub-Wrappers)
 
-Solução automatizada criada para extrair e organizar informações atualizadas sobre condições rodoviárias, gerando relatórios detalhados em Excel. Implementado com sucesso na AGERGS.
+Nascido da necessidade de simplificar a orquestração de serviços, este projeto centraliza uma coleção de wrappers para diversas APIs. Ele atua como uma camada de abstração unificada, projetada para padronizar o acesso a funcionalidades externas, reduzir a verbosidade do código e acelerar o desenvolvimento de aplicações que dependem de múltiplas fontes de dados e serviços de terceiros.
 
 **`Tecnologias:`** Python, requests, BeautifulSoup, pandas, openpyxl, tkinter
 
@@ -102,26 +106,17 @@ Solução automatizada criada para extrair e organizar informações atualizadas
 
 [Repositório](https://github.com/JyanDev/bot-jogador-de-cartas)
 
-Projeto experimental que utiliza visão computacional para automatizar jogos de cartas em emuladores. Capaz de identificar elementos visuais na tela e executar ações automaticamente.
+Uma incursão no domínio da visão computacional aplicada ao lazer. Este projeto experimental explora a capacidade do OpenCV de identificar elementos visuais em tempo real na tela de um emulador, permitindo que o script "jogue" um jogo de cartas de forma autônoma. É um campo de testes para técnicas de automação de interface e reconhecimento de padrões.
 
 **`Tecnologias:`** Python, OpenCV, pyautogui
       
 ---
 
-## 🌟 Meu Diferencial
-
-* Criatividade em soluções tecnológicas.
-* Capacidade comprovada de automação de processos e aumento de produtividade.
-* Experiência em interfaces intuitivas para melhor experiência do usuário.
-* Base multidisciplinar que facilita integração entre diferentes tecnologias.
-
----
-
-## 📞 Contato
-
+## 🌐 Conecte-se Comigo
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato. Estou sempre aberto a novas ideias, colaborações e desafios.
 * [GitHub](https://github.com/JyanDev)
-* Email: [jyandasilva@gmail.com](mailto:jyandasilva@gmail.com)
+* [ Email ](mailto:jyandasilva@gmail.com)
 
 ---
 
-> "Transformando desafios em soluções tecnológicas criativas e eficientes."
+> Acredito que a tecnologia atinge seu ápice quando se torna uma extensão da criatividade humana, simplificando o complexo e revelando novas possibilidades.
