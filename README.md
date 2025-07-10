@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Jyan Silva
 
-**`Desenvolvedor | Com sólida experiência em Automação e Soluções Tecnológicas Criativas`**
+**`Desenvolvedor & Engenheiro de Software Centauro |  Automação e Criatividade.**
 
 Minha trajetória no desenvolvimento de software é impulsionada por uma curiosidade inata sobre como a tecnologia pode otimizar e enriquecer a interação humana com o mundo digital. Encontrei no Python meu principal meio de expressão, onde exploro desde a automação de processos complexos até a concepção de interfaces gráficas e incursões em visão computacional e Machine Learning.
 
@@ -77,7 +77,13 @@ Essa especialização, no entanto, é fundamentada sobre uma base polímata. Meu
       title="Visual Studio"
       width="40px"
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />   
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /><img
+      align="left"
+      alt="FireBase"
+      title="Backend"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />    
     </span>  
 </div>
 
