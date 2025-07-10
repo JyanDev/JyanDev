@@ -95,6 +95,7 @@ Domínio Diário: O Python e C# é o ecossistema onde atuo com maior fluidez, ap
 Fundamentos Sólidos: A base acadêmica e prática em C++ e Java me confere rigor lógico e uma compreensão profunda de paradigmas de programação.
 
 Visão Integrada: HTML, CSS, e SQL complementam meu perfil, permitindo-me construir e integrar soluções que dialogam de forma eficiente com o ambiente web e bancos de dados.
+
 ---
 
 ## 🚀 Projetos de Destaque
