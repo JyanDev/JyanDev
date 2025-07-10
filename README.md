@@ -71,7 +71,13 @@ Essa especialização, no entanto, é fundamentada sobre uma base polímata. Meu
       title="Arduino (prototipagem e automação física)"
       width="40px"
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />   
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img
+      align="left"
+      alt="Visual Studio"
+      title="Visual Studio"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />   
     </span>  
 </div>
 
