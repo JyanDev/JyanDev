@@ -13,7 +13,7 @@ Essa especialização, no entanto, é fundamentada sobre uma base polímata. Meu
 
 <div>
   <span style="display:inline-flex; align-items:center; background-color:#383b47; padding:8px; border-radius:10px; flex-wrap:nowrap; white-space:nowrap;">
-  <img 
+  <img
       align="left"
       alt="Python"
       title="Python"
@@ -30,21 +30,21 @@ Essa especialização, no entanto, é fundamentada sobre uma base polímata. Meu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
     />
 
-  <img 
+  <img
       align="left"
       alt="Java"
       title="Java (base acadêmica e projetos)"
       width="40px"
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img 
+  <img
       align="left"
       alt="C++"
       title="C++ (base acadêmica e projetos)"
       width="35px"
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img 
+  <img
       align="left"
       alt="HTML5"
       title="HTML5 (fundamentos para integrações e interfaces)"
@@ -83,8 +83,8 @@ Essa especialização, no entanto, é fundamentada sobre uma base polímata. Meu
       title="Backend"
       width="40px"
       style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />    
-    </span>  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+    </span>
 </div>
 
 <br clear="left"/>
@@ -105,7 +105,7 @@ Visão Integrada: HTML, CSS, e SQL complementam meu perfil, permitindo-me constr
 
 Concebido para entusiastas da fotografia e organização de dados, este projeto aborda a complexa tarefa de gerenciar metadados de imagens. A ferramenta oferece uma interface gráfica intuitiva para extrair e visualizar informações EXIF, como data, hora e, crucialmente, coordenadas GPS, que são traduzidas em endereços legíveis através da API OpenCage.
 
-**`Tecnologias:`** Python, PySide6, dotenv, OpenCage API
+**`Tecnologias:`** Python, PySide6, dotenv, OpenCage API e Inno Setup
 
 ### ⚙️ Hub-Wrappers
 
@@ -113,7 +113,7 @@ Concebido para entusiastas da fotografia e organização de dados, este projeto 
 
 Nascido da necessidade de simplificar a orquestração de serviços, este projeto centraliza uma coleção de wrappers para diversas APIs. Ele atua como uma camada de abstração unificada, projetada para padronizar o acesso a funcionalidades externas, reduzir a verbosidade do código e acelerar o desenvolvimento de aplicações que dependem de múltiplas fontes de dados e serviços de terceiros.
 
-**`Tecnologias:`** Python, requests, BeautifulSoup, pandas, openpyxl, tkinter
+**`Tecnologias:`** Visual Studio C#, wPF (Windows) sobre .NET 8, Microsoft WebView2, SharpVectors (para SVG), SixLabors.ImageSharp (para PNG, JPG, etc.) e Inno Setup
 
 ### 🎴 Bot Automático para Jogos de Cartas
 
@@ -122,7 +122,7 @@ Nascido da necessidade de simplificar a orquestração de serviços, este projet
 Uma incursão no domínio da visão computacional aplicada ao lazer. Este projeto experimental explora a capacidade do OpenCV de identificar elementos visuais em tempo real na tela de um emulador, permitindo que o script "jogue" um jogo de cartas de forma autônoma. É um campo de testes para técnicas de automação de interface e reconhecimento de padrões.
 
 **`Tecnologias:`** Python, OpenCV, pyautogui
-      
+
 ---
 
 ## 🌐 Conecte-se Comigo
