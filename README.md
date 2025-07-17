@@ -98,7 +98,7 @@ Visão Integrada: HTML, CSS, e SQL complementam meu perfil, permitindo-me constr
 
 ---
 
-## 🚀 Projetos de Destaque
+## Projetos de Destaque
 ### 🖼️ Photo Info Manager
 
 [Repositório](https://github.com/JyanDev/photo-info-manager)
