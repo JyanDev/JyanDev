@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Jyan Silva
 
-**`Desenvolvedor & Engenheiro de Software Centauro |  Automação e Criatividade.**
+**`Engenheiro de Software | C# & Python | Automação e Desenvolvimento de Aplicações**
 
 Minha trajetória no desenvolvimento de software é impulsionada por uma curiosidade inata sobre como a tecnologia pode otimizar e enriquecer a interação humana com o mundo digital. Encontrei no Python meu principal meio de expressão, onde exploro desde a automação de processos complexos até a concepção de interfaces gráficas e incursões em visão computacional e Machine Learning.
 
