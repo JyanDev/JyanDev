@@ -1,5 +1,5 @@
 
-# 👨🏻‍💻 Jyan Silva
+# 👨🏻‍💻 Jyan Jagielo
 
 **`Engenheiro de Software | C# & Python | Automação e Desenvolvimento de Aplicações**
 
