@@ -8,79 +8,79 @@ Atualmente utilizo Python como linguagem principal, mas estou aberto a explorar 
 
 ##  Linguagens e Tecnologias
 <div>
-  <span style="display:inline-flex; align-items:center; background-color:#383b47; padding:8px; border-radius:10px; flex-wrap:nowrap; white-space:nowrap;">
-  <img
-      align="left"
-      alt="Python"
-      title="Python"
-      width="40px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <span style="display:inline-flex; align-items:center; background-color:#383b47; padding:8px; border-radius:10px; flex-wrap:nowrap; white-space:nowrap;">
+  <img
+      align="left"
+      alt="Python"
+      title="Python"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-  <img
-    align="left"
-    alt="Unity"
-    title="Unity"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
-    />
+  <img
+    align="left"
+    alt="Unity"
+    title="Unity"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
+    />
 
-  <img
-      align="left"
-      alt="Java"
-      title="Java (base acadêmica e projetos)"
-      width="40px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img
-      align="left"
-      alt="C++"
-      title="C++ (base acadêmica e projetos)"
-      width="35px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img
-      align="left"
-      alt="HTML5"
-      title="HTML5 (fundamentos para integrações e interfaces)"
-      width="40px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img
-      align="left"
-      alt="CSS"
-      title="CSS (fundamentos para interfaces web)"
-      width="35px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img
-      align="left"
-      alt="SQL"
-      title="SQL (base acadêmica e integração de dados)"
-      width="40px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img
-      align="left"
-      alt="Arduino"
-      title="Arduino (prototipagem e automação física)"
-      width="40px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img
-      align="left"
-      alt="Visual Studio"
-      title="Visual Studio"
-      width="40px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /><img
-      align="left"
-      alt="FireBase"
-      title="Backend"
-      width="40px"
-      style="padding-right: 10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-    </span>
+  <img
+      align="left"
+      alt="Java"
+      title="Java (base acadêmica e projetos)"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img
+      align="left"
+      alt="C++"
+      title="C++ (base acadêmica e projetos)"
+      width="35px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img
+      align="left"
+      alt="HTML5"
+      title="HTML5 (fundamentos para integrações e interfaces)"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img
+      align="left"
+      alt="CSS"
+      title="CSS (fundamentos para interfaces web)"
+      width="35px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img
+      align="left"
+      alt="SQL"
+      title="SQL (base acadêmica e integração de dados)"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img
+      align="left"
+      alt="Arduino"
+      title="Arduino (prototipagem e automação física)"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img
+      align="left"
+      alt="Visual Studio"
+      title="Visual Studio"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /><img
+      align="left"
+      alt="FireBase"
+      title="Backend"
+      width="40px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+    </span>
 </div>
 
 <br clear="left"/>
