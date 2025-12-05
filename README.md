@@ -104,9 +104,20 @@ Este repositório documenta minha jornada de estudos ativa.
 
 ---
 
-## Principais Projetos (Em Refatoração)
+## 🚀 Principais Projetos
 
-> Meus principais projetos finalizados estão arquivados no momento. Estou refatorando e atualizando-os com os novos conceitos e boas práticas que aprendi. Em breve, eles estarão disponíveis aqui!
+> ⚠️ **Nota:** Meus projetos estão passando por uma refatoração para aplicar conceitos avançados de Data Science e Clean Code. Abaixo, destaco a versão original (funcional) de uma das minhas ferramentas de automação.
+
+### 📸 [Photo Info Manager](LINK_DO_SEU_REPOSITORIO)
+**Status:** *Versão Legacy (V1)* | **Foco:** Automação, ETL e Manipulação de Metadados
+
+Uma ferramenta desenvolvida em **Python Puro** para automatizar o tratamento de imagens em lote. O script extrai metadados ocultos (EXIF), como coordenadas GPS e data original, e processa essas informações.
+
+* **O que faz:** Extrai dados técnicos da imagem, consulta APIs de geolocalização e "carimba" as informações visuais na própria foto de forma automatizada.
+* **Destaque Técnico:** Foco em **Tratamento de Exceções** e resiliência. O script foi projetado para não falhar (crash) caso a API caia ou encontre arquivos corrompidos, garantindo o processamento contínuo de pastas inteiras.
+* **Tecnologias:** Python, Requests (API), Manipulação de Arquivos e Strings.
+
+[🔗 Acessar Código Fonte](https://github.com/JyanDev/photo-info-manager)
 
 ---
 
