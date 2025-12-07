@@ -106,19 +106,30 @@ Este repositório documenta minha jornada de estudos ativa.
 
 ## 🚀 Principais Projetos
 
-> ⚠️ **Nota:** Meus projetos estão passando por uma refatoração para aplicar conceitos avançados de Data Science e Clean Code. Abaixo, destaco a versão original (funcional) de uma das minhas ferramentas de automação.
+> 🚧 **Em Destaque:** Estou atualmente focado na refatoração arquitetural do meu principal projeto de produtividade, migrando de uma aplicação monolítica para uma arquitetura híbrida moderna.
 
-### 📸 [Photo Info Manager](LINK_DO_SEU_REPOSITORIO)
+### 🔮 [Hub-Wrappers: The Evolution (V1 -> V2)](https://github.com/JyanDev/Hub-Wrappers)
+**Status:** *Refatoração Ativa (C# .NET -> Python)* | **Foco:** Arquitetura de Software & Performance
+
+Um hub de produtividade que centraliza Web Apps em containers isolados. O projeto está passando por uma reescrita completa para resolver gargalos de memória e escalabilidade.
+
+* **O Desafio (V1 - Legacy):** A versão original em **C# (WPF)** era funcional, mas consumia muitos recursos e tinha uma UI de difícil manutenção.
+* **A Solução (V2 - Python):** Estou migrando o core para **Python** (gerenciamento de processos e dados) com uma interface leve baseada em **Web Technologies (HTML/Vue)** via `pywebview`.
+* **Inovação:** Implementação de mecânica "Drop-to-Create" usando **Web Scraping** para autoconfiguração de apps.
+
+[🔗 Acompanhar a Refatoração](https://github.com/JyanDev/Hub-Wrappers)
+
+---
+
+### 📸 [Photo Info Manager](https://github.com/JyanDev/photo-info-manager)
 **Status:** *Versão Legacy (V1)* | **Foco:** Automação, ETL e Manipulação de Metadados
 
 Uma ferramenta desenvolvida em **Python Puro** para automatizar o tratamento de imagens em lote. O script extrai metadados ocultos (EXIF), como coordenadas GPS e data original, e processa essas informações.
 
 * **O que faz:** Extrai dados técnicos da imagem, consulta APIs de geolocalização e "carimba" as informações visuais na própria foto de forma automatizada.
-* **Destaque Técnico:** Foco em **Tratamento de Exceções** e resiliência. O script foi projetado para não falhar (crash) caso a API caia ou encontre arquivos corrompidos, garantindo o processamento contínuo de pastas inteiras.
-* **Tecnologias:** Python, Requests (API), Manipulação de Arquivos e Strings.
+* **Destaque Técnico:** Foco em **Tratamento de Exceções** e resiliência. O script foi projetado para não falhar (crash) caso a API caia ou encontre arquivos corrompidos.
 
 [🔗 Acessar Código Fonte](https://github.com/JyanDev/photo-info-manager)
-
 ---
 
 ## 🌐 Conecte-se Comigo
